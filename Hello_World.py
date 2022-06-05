@@ -19,7 +19,8 @@ favfrut1 ="Apple"
 favfrut2 ="Orange"
 
 print("I love to eat {} and {}.".format(favfrut1, favfrut2))
-# print(f"I love to eat {favfrut1} and {favfrut2}.")
+print(f"I love to eat {favfrut1} and {favfrut2}.")
+
 
 
 
